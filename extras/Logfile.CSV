@@ -1,0 +1,280 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"1:03:14,9994047","parent.exe","44224","Process Start","","SUCCESS","Parent PID: 42236, Command line: ""C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\parent.exe"", Current directory: C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\, Environment: ;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-JCG5ASO;	LOCALAPPDATA=C:\Users\Xiaomi Book Pro 2026\AppData\Local;	ChocolateyLastPathUpdate=134351379713804814;	PROCESSOR_LEVEL=6;	IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;	USERDOMAIN=DESKTOP-JCG5ASO;	LOGONSERVER=\\DESKTOP-JCG5ASO;	SESSIONNAME=Console;	ALLUSERSPROFILE=C:\ProgramData;	PROCESSOR_ARCHITECTURE=AMD64;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	SystemDrive=C:;	OneDrive=C:\Users\Xiaomi Book Pro 2026\OneDrive;	APPDATA=C:\Users\Xiaomi Book Pro 2026\AppData\Roaming;	USERNAME=Xiaomi Book Pro 2026;	ChocolateyInstall=C:\ProgramData\chocolatey;	ProgramFiles(x86)=C:\Program Files (x86);	CommonProgramFiles=C:\Program Files\Common Files;	Path=C:\Program Files\JetBrains\CLion 2026.2.2\bin\mingw\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\WSL\;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\Python\Python314\;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Microsoft\WindowsApps;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\CLion 2026.2.2\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Users\Xiaomi Book Pro 2026\AppData\Roaming\npm;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\DockerDesktop\resources\bin;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	OS=Windows_NT;	DriverData=C:\Windows\System32\Drivers\DriverData;	COMPUTERNAME=DESKTOP-JCG5ASO;	EFC_17988_2775293581=1;	CLion=C:\Program Files\JetBrains\CLion 2026.2.2\bin;	EFC_17988_2283032206=1;	PROCESSOR_REVISION=cc02;	EFC_17988_4126798990=1;	CommonProgramW6432=C:\Program Files\Common Files;	ComSpec=C:\Windows\system32\cmd.exe;	EFC_17988_1262719628=1;	ProgramData=C:\ProgramData;	ProgramW6432=C:\Program Files;	TEMP=C:\Users\XIAOMI~1\AppData\Local\Temp;	SystemRoot=C:\Windows;	HOMEPATH=\Users\Xiaomi Book Pro 2026;	EFC_17988_3789132940=1;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 204 Stepping 2, GenuineIntel;	HOMEDRIVE=C:;	USERPROFILE=C:\Users\Xiaomi Book Pro 2026;	TMP=C:\Users\XIAOMI~1\AppData\Local\Temp;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	ProgramFiles=C:\Program Files;	PUBLIC=C:\Users\Public;	windir=C:\Windows;	NUMBER_OF_PROCESSORS=16;	EFC_17988_1592913036=1;	=::=::\"
+"1:03:14,9994477","parent.exe","44224","Thread Create","","SUCCESS","Thread ID: 46036"
+"1:03:15,0150407","parent.exe","44224","Load Image","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\parent.exe","SUCCESS","Image Base: 0x7ff78d680000, Image Size: 0x1b000"
+"1:03:15,0165079","parent.exe","44224","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ff9773c0000, Image Size: 0x268000"
+"1:03:15,0166607","parent.exe","44224","CreateFile","C:\Windows\Prefetch\PARENT.EXE-2D0A67B9.pf","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+"1:03:15,0202084","parent.exe","44224","QueryStandardInformationFile","C:\Windows\Prefetch\PARENT.EXE-2D0A67B9.pf","SUCCESS","AllocationSize: 4 096, EndOfFile: 1 522, NumberOfLinks: 1, DeletePending: False, Directory: False"
+"1:03:15,0202820","parent.exe","44224","ReadFile","C:\Windows\Prefetch\PARENT.EXE-2D0A67B9.pf","SUCCESS","Offset: 0, Length: 1 522"
+"1:03:15,0216065","parent.exe","44224","CloseFile","C:\Windows\Prefetch\PARENT.EXE-2D0A67B9.pf","SUCCESS",""
+"1:03:15,0282579","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\CodePage","REPARSE","Desired Access: Read"
+"1:03:15,0282915","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\CodePage","SUCCESS","Desired Access: Read"
+"1:03:15,0283133","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\CodePage\ACP","SUCCESS","Type: REG_SZ, Length: 10, Data: 1251"
+"1:03:15,0283513","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\CodePage\OEMCP","SUCCESS","Type: REG_SZ, Length: 8, Data: 866"
+"1:03:15,0283798","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\CodePage","SUCCESS",""
+"1:03:15,0284717","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"1:03:15,0285095","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"1:03:15,0285282","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"1:03:15,0285502","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:03:15,0285745","parent.exe","44224","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"1:03:15,0286166","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:15,0286566","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"1:03:15,0287932","parent.exe","44224","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\parent.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:03:15,0290631","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Notifications\41911A28A3BC10B5","BUFFER TOO SMALL","Length: 0"
+"1:03:15,0290834","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Notifications\41911A28A3BC10B5","SUCCESS","Type: REG_BINARY, Length: 72"
+"1:03:15,0293924","parent.exe","44224","CreateFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"1:03:15,0297049","parent.exe","44224","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ff975e10000, Image Size: 0xcb000"
+"1:03:15,0298723","parent.exe","44224","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ff974a10000, Image Size: 0x401000"
+"1:03:15,0309938","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"1:03:15,0310254","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"1:03:15,0311308","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Terminal Server","REPARSE","Desired Access: Read"
+"1:03:15,0311565","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Terminal Server","SUCCESS","Desired Access: Read"
+"1:03:15,0311788","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Terminal Server\TSAppCompat","NAME NOT FOUND","Length: 548"
+"1:03:15,0311953","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Terminal Server\TSUserEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:03:15,0312190","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Control\Terminal Server","SUCCESS",""
+"1:03:15,0313740","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"1:03:15,0313947","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"1:03:15,0314182","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"1:03:15,0314634","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"1:03:15,0315062","parent.exe","44224","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"1:03:15,0315388","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"1:03:15,0315589","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"1:03:15,0315893","parent.exe","44224","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:15,0317294","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"1:03:15,0317619","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"1:03:15,0317873","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:03:15,0318672","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"1:03:15,0322595","parent.exe","44224","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ff9752c0000, Image Size: 0xa9000"
+"1:03:15,0337965","parent.exe","44224","Thread Create","","SUCCESS","Thread ID: 14700"
+"1:03:15,0342113","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"1:03:15,0342432","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"1:03:15,0342664","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060502"
+"1:03:15,0342966","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000605xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"1:03:15,0343657","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"1:03:15,0344117","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"1:03:15,0344538","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelaySleepLoopWindowSize","NAME NOT FOUND","Length: 80"
+"1:03:15,0344695","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelaySpinCountThreshold","NAME NOT FOUND","Length: 80"
+"1:03:15,0344841","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelayBaseYield","NAME NOT FOUND","Length: 80"
+"1:03:15,0344996","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtFactorYield","NAME NOT FOUND","Length: 80"
+"1:03:15,0345334","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelayMaxYield","NAME NOT FOUND","Length: 80"
+"1:03:15,0345819","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:03:15,0347252","parent.exe","44224","QueryNameInformationFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\parent.exe","SUCCESS","Name: \Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\parent.exe"
+"1:03:21,6894061","parent.exe","44224","CreateFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\input.txt","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Disallow Exclusive, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,6901548","parent.exe","44224","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ff975f80000, Image Size: 0xa8000"
+"1:03:21,6906109","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Memory Management","REPARSE","Desired Access: Query Value"
+"1:03:21,6906546","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Memory Management","SUCCESS","Desired Access: Query Value"
+"1:03:21,6907014","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\Memory Management\HotPatchRestrictions","NAME NOT FOUND","Length: 20"
+"1:03:21,6907225","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager\Memory Management","SUCCESS",""
+"1:03:21,6907437","parent.exe","44224","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:03:21,6907709","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Wow64\x86\xtajit","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:21,6908729","parent.exe","44224","CreateFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Read Attributes, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,6909515","parent.exe","44224","CreateFileMapping","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"1:03:21,6910266","parent.exe","44224","CreateFileMapping","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","SyncType: SyncTypeOther"
+"1:03:21,6910728","parent.exe","44224","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:03:21,6911178","parent.exe","44224","QuerySecurityFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","Information: Label"
+"1:03:21,6911880","parent.exe","44224","QueryNameInformationFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","Name: \Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe"
+"1:03:21,6993784","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001","SUCCESS","Desired Access: All Access"
+"1:03:21,6994058","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001\\Device\HarddiskVolume3\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","NAME NOT FOUND","Length: 40"
+"1:03:21,6994323","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001","SUCCESS",""
+"1:03:21,6994937","parent.exe","44224","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BAM","REPARSE","Desired Access: Query Value"
+"1:03:21,6996699","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\BAM","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:21,7041909","parent.exe","44224","Process Create","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","PID: 27892, Command line: ""C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe"" Local\LabOC4Map_44224 Local\LabOC4Ready_44224 Local\LabOC4Received_44224"
+"1:03:21,7042041","child.exe","27892","Process Start","","SUCCESS","Parent PID: 44224, Command line: ""C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe"" Local\LabOC4Map_44224 Local\LabOC4Ready_44224 Local\LabOC4Received_44224, Current directory: C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\, Environment: ;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-JCG5ASO;	LOCALAPPDATA=C:\Users\Xiaomi Book Pro 2026\AppData\Local;	ChocolateyLastPathUpdate=134351379713804814;	PROCESSOR_LEVEL=6;	IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;	USERDOMAIN=DESKTOP-JCG5ASO;	LOGONSERVER=\\DESKTOP-JCG5ASO;	SESSIONNAME=Console;	ALLUSERSPROFILE=C:\ProgramData;	PROCESSOR_ARCHITECTURE=AMD64;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	SystemDrive=C:;	OneDrive=C:\Users\Xiaomi Book Pro 2026\OneDrive;	APPDATA=C:\Users\Xiaomi Book Pro 2026\AppData\Roaming;	USERNAME=Xiaomi Book Pro 2026;	ChocolateyInstall=C:\ProgramData\chocolatey;	ProgramFiles(x86)=C:\Program Files (x86);	CommonProgramFiles=C:\Program Files\Common Files;	Path=C:\Program Files\JetBrains\CLion 2026.2.2\bin\mingw\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\WSL\;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\Python\Python314\;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Microsoft\WindowsApps;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\CLion 2026.2.2\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Users\Xiaomi Book Pro 2026\AppData\Roaming\npm;C:\Users\Xiaomi Book Pro 2026\AppData\Local\Programs\DockerDesktop\resources\bin;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	OS=Windows_NT;	DriverData=C:\Windows\System32\Drivers\DriverData;	COMPUTERNAME=DESKTOP-JCG5ASO;	EFC_17988_2775293581=1;	CLion=C:\Program Files\JetBrains\CLion 2026.2.2\bin;	EFC_17988_2283032206=1;	PROCESSOR_REVISION=cc02;	EFC_17988_4126798990=1;	CommonProgramW6432=C:\Program Files\Common Files;	ComSpec=C:\Windows\system32\cmd.exe;	EFC_17988_1262719628=1;	ProgramData=C:\ProgramData;	ProgramW6432=C:\Program Files;	TEMP=C:\Users\XIAOMI~1\AppData\Local\Temp;	SystemRoot=C:\Windows;	HOMEPATH=\Users\Xiaomi Book Pro 2026;	EFC_17988_3789132940=1;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 204 Stepping 2, GenuineIntel;	HOMEDRIVE=C:;	USERPROFILE=C:\Users\Xiaomi Book Pro 2026;	TMP=C:\Users\XIAOMI~1\AppData\Local\Temp;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	ProgramFiles=C:\Program Files;	PUBLIC=C:\Users\Public;	windir=C:\Windows;	NUMBER_OF_PROCESSORS=16;	EFC_17988_1592913036=1;	=::=::\"
+"1:03:21,7042506","child.exe","27892","Thread Create","","SUCCESS","Thread ID: 19716"
+"1:03:21,7043192","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls","REPARSE","Desired Access: Query Value"
+"1:03:21,7043584","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:21,7043972","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"1:03:21,7044214","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"1:03:21,7044499","parent.exe","44224","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"1:03:21,7044765","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"1:03:21,7044947","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\AuthenticodeEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:03:21,7045218","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"1:03:21,7045514","parent.exe","44224","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:21,7048582","parent.exe","44224","RegOpenKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS","Desired Access: Query Value"
+"1:03:21,7048944","parent.exe","44224","RegQueryValue","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache","SUCCESS","Type: REG_SZ, Length: 144, Data: C:\Users\Xiaomi Book Pro 2026\AppData\Local\Microsoft\Windows\INetCache"
+"1:03:21,7050043","parent.exe","44224","RegCloseKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS",""
+"1:03:21,7050340","parent.exe","44224","RegOpenKey","HKCU\Software\Microsoft\Windows NT\CurrentVersion","SUCCESS","Desired Access: Enumerate Sub Keys"
+"1:03:21,7050540","parent.exe","44224","RegOpenKey","HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS","Desired Access: Query Value"
+"1:03:21,7050722","parent.exe","44224","RegQueryValue","HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","NAME NOT FOUND","Length: 16"
+"1:03:21,7050890","parent.exe","44224","RegCloseKey","HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS",""
+"1:03:21,7051176","parent.exe","44224","QuerySecurityFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","Information: Owner, Group, DACL, SACL, Label, Attribute, Process Trust Label, 0x100"
+"1:03:21,7052290","parent.exe","44224","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7052813","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:03:21,7053095","parent.exe","44224","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:03:21,7054012","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS","Desired Access: Read"
+"1:03:21,7054265","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs","NAME NOT FOUND","Length: 20"
+"1:03:21,7054656","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS",""
+"1:03:21,7054940","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Desired Access: Read"
+"1:03:21,7055318","parent.exe","44224","RegEnumValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Index: 0, Type: REG_SZ, Length: 24, Data: sysmain.sdb"
+"1:03:21,7055562","parent.exe","44224","RegEnumValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Index: 0, Type: REG_SZ"
+"1:03:21,7055857","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS",""
+"1:03:21,7056941","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS","Desired Access: Read"
+"1:03:21,7057102","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysMerge.sdb","NAME NOT FOUND","Length: 0"
+"1:03:21,7057255","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS",""
+"1:03:21,7057495","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS","Desired Access: Read"
+"1:03:21,7057787","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysMerge.sdb","BUFFER TOO SMALL","Length: 0"
+"1:03:21,7057945","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysMerge.sdb","SUCCESS","Type: REG_SZ, Length: 58, Data: 01DCF7F0864DABE4.sysmain.sdb"
+"1:03:21,7058207","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\MergeVer_sysMerge.sdb","SUCCESS","Type: REG_DWORD, Length: 4, Data: 1"
+"1:03:21,7058646","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\MergeVer","SUCCESS","Type: REG_DWORD, Length: 4, Data: 1"
+"1:03:21,7059424","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\MinMergeVer","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:03:21,7060537","parent.exe","44224","CreateFile","C:\Windows\apppatch\MergeSdbFilesSource\01DCF7F0864DABE4.sysmain.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7060953","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\MergeSdbFilesSource\01DCF7F0864DABE4.sysmain.sdb","SUCCESS",""
+"1:03:21,7061538","parent.exe","44224","CloseFile","C:\Windows\apppatch\MergeSdbFilesSource\01DCF7F0864DABE4.sysmain.sdb","SUCCESS",""
+"1:03:21,7062401","parent.exe","44224","CreateFile","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7062840","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS",""
+"1:03:21,7063102","parent.exe","44224","CloseFile","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS",""
+"1:03:21,7063636","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS","Desired Access: Read"
+"1:03:21,7063804","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs","NAME NOT FOUND","Length: 20"
+"1:03:21,7063968","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS",""
+"1:03:21,7064229","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Desired Access: Read"
+"1:03:21,7064483","parent.exe","44224","RegEnumValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Index: 0, Type: REG_SZ, Length: 24, Data: sysmain.sdb"
+"1:03:21,7064697","parent.exe","44224","RegEnumValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Index: 1, Type: REG_SZ, Length: 24, Data: msimain.sdb"
+"1:03:21,7064913","parent.exe","44224","RegEnumValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","NO MORE ENTRIES","Index: 2, Length: 42"
+"1:03:21,7065062","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS",""
+"1:03:21,7065195","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS",""
+"1:03:21,7065780","parent.exe","44224","CreateFile","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7067726","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS",""
+"1:03:21,7068517","parent.exe","44224","CloseFile","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS",""
+"1:03:21,7069099","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS","Desired Access: Read"
+"1:03:21,7069258","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\StagedDelete_sysmain.sdb","NAME NOT FOUND","Length: 0"
+"1:03:21,7069407","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS",""
+"1:03:21,7069656","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS","Desired Access: Read"
+"1:03:21,7069804","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysmain.sdb","BUFFER TOO SMALL","Length: 0"
+"1:03:21,7069966","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\sysmain.sdb","SUCCESS","Type: REG_SZ, Length: 58, Data: 01DD5BE389C834DD.sysmain.sdb"
+"1:03:21,7070223","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\MergeVer_sysmain.sdb","SUCCESS","Type: REG_DWORD, Length: 4, Data: 1"
+"1:03:21,7070691","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\MergeVer","SUCCESS","Type: REG_DWORD, Length: 4, Data: 1"
+"1:03:21,7070913","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\MinMergeVer","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:03:21,7071703","parent.exe","44224","CreateFile","C:\Windows\apppatch\01DD5BE389C834DD.sysmain.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7072059","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\01DD5BE389C834DD.sysmain.sdb","SUCCESS",""
+"1:03:21,7072286","parent.exe","44224","CloseFile","C:\Windows\apppatch\01DD5BE389C834DD.sysmain.sdb","SUCCESS",""
+"1:03:21,7073114","parent.exe","44224","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7073513","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:03:21,7073937","parent.exe","44224","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:03:21,7074349","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS","Desired Access: Read"
+"1:03:21,7074626","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\DisableDoubleQuerySdbs","NAME NOT FOUND","Length: 20"
+"1:03:21,7074777","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS",""
+"1:03:21,7075220","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Desired Access: Read"
+"1:03:21,7075565","parent.exe","44224","RegEnumValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Index: 0, Type: REG_SZ, Length: 24, Data: sysmain.sdb"
+"1:03:21,7075825","parent.exe","44224","RegEnumValue","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS","Index: 0, Type: REG_SZ"
+"1:03:21,7076198","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs","SUCCESS",""
+"1:03:21,7076762","parent.exe","44224","CreateFile","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7077420","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS",""
+"1:03:21,7077650","parent.exe","44224","CloseFile","C:\Windows\apppatch\MergeSdbFilesSource\sysMerge.sdb","SUCCESS",""
+"1:03:21,7078105","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates","SUCCESS",""
+"1:03:21,7078740","parent.exe","44224","CreateFile","C:\Windows\apppatch\01DD5BE389C834DD.sysmain.sdb","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open For Backup, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7079096","parent.exe","44224","QueryStatInformation","C:\Windows\apppatch\01DD5BE389C834DD.sysmain.sdb","SUCCESS",""
+"1:03:21,7079327","parent.exe","44224","CloseFile","C:\Windows\apppatch\01DD5BE389C834DD.sysmain.sdb","SUCCESS",""
+"1:03:21,7079873","parent.exe","44224","QueryBasicInformationFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","CreationTime: 05.11.2026 20:44:22, LastAccessTime: 06.11.2026 1:03:21, LastWriteTime: 05.11.2026 20:44:22, ChangeTime: 05.11.2026 20:44:22, FileAttributes: A"
+"1:03:21,7080512","parent.exe","44224","QueryBasicInformationFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","CreationTime: 05.11.2026 20:44:22, LastAccessTime: 06.11.2026 1:03:21, LastWriteTime: 05.11.2026 20:44:22, ChangeTime: 05.11.2026 20:44:22, FileAttributes: A"
+"1:03:21,7080754","parent.exe","44224","QueryNameInformationFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","Name: \Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe"
+"1:03:21,7081536","parent.exe","44224","RegOpenKey","HKLM\Software\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS","Desired Access: Read"
+"1:03:21,7081986","parent.exe","44224","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest","NAME NOT FOUND","Length: 20"
+"1:03:21,7082433","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS",""
+"1:03:21,7082992","parent.exe","44224","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:03:21,7083299","parent.exe","44224","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7083630","parent.exe","44224","RegCloseKey","HKCU","SUCCESS",""
+"1:03:21,7083855","parent.exe","44224","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7084120","parent.exe","44224","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:03:21,7084277","parent.exe","44224","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7084438","parent.exe","44224","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS","Desired Access: Read"
+"1:03:21,7084606","parent.exe","44224","RegEnumValue","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS","Index: 0, Name: ru-RU, Type: REG_MULTI_SZ, Length: 14, Data: en-US"
+"1:03:21,7084896","parent.exe","44224","RegEnumValue","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS","Index: 1, Name: zh-CN, Type: REG_MULTI_SZ, Length: 14, Data: en-US"
+"1:03:21,7085112","parent.exe","44224","RegEnumValue","HKCU\Control Panel\Desktop\LanguageConfiguration","NO MORE ENTRIES","Index: 2, Length: 512"
+"1:03:21,7085247","parent.exe","44224","RegCloseKey","HKCU\Control Panel\Desktop\LanguageConfiguration","SUCCESS",""
+"1:03:21,7085373","parent.exe","44224","RegCloseKey","HKCU","SUCCESS",""
+"1:03:21,7085592","parent.exe","44224","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7085830","parent.exe","44224","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:03:21,7086118","parent.exe","44224","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7086268","parent.exe","44224","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"1:03:21,7086418","parent.exe","44224","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"1:03:21,7086571","parent.exe","44224","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 14, Data: ru-RU"
+"1:03:21,7086797","parent.exe","44224","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"1:03:21,7086922","parent.exe","44224","RegCloseKey","HKCU","SUCCESS",""
+"1:03:21,7087153","parent.exe","44224","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7087404","parent.exe","44224","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:03:21,7087565","parent.exe","44224","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"1:03:21,7087726","parent.exe","44224","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"1:03:21,7087874","parent.exe","44224","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: ru-RU"
+"1:03:21,7088196","parent.exe","44224","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"1:03:21,7088342","parent.exe","44224","RegCloseKey","HKCU","SUCCESS",""
+"1:03:21,7122058","parent.exe","44224","CloseFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS",""
+"1:03:21,7123789","child.exe","27892","Load Image","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","Image Base: 0x7ff6477f0000, Image Size: 0x1c000"
+"1:03:21,7124570","child.exe","27892","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ff9773c0000, Image Size: 0x268000"
+"1:03:21,7125393","child.exe","27892","CreateFile","C:\Windows\Prefetch\CHILD.EXE-326A2D93.pf","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7148069","child.exe","27892","QueryStandardInformationFile","C:\Windows\Prefetch\CHILD.EXE-326A2D93.pf","SUCCESS","AllocationSize: 4 096, EndOfFile: 1 579, NumberOfLinks: 1, DeletePending: False, Directory: False"
+"1:03:21,7148546","child.exe","27892","ReadFile","C:\Windows\Prefetch\CHILD.EXE-326A2D93.pf","SUCCESS","Offset: 0, Length: 1 579"
+"1:03:21,7149448","child.exe","27892","CloseFile","C:\Windows\Prefetch\CHILD.EXE-326A2D93.pf","SUCCESS",""
+"1:03:21,7193219","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\CodePage","REPARSE","Desired Access: Read"
+"1:03:21,7193699","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\CodePage","SUCCESS","Desired Access: Read"
+"1:03:21,7194014","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\CodePage\ACP","SUCCESS","Type: REG_SZ, Length: 10, Data: 1251"
+"1:03:21,7194352","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\CodePage\OEMCP","SUCCESS","Type: REG_SZ, Length: 8, Data: 866"
+"1:03:21,7194702","child.exe","27892","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\CodePage","SUCCESS",""
+"1:03:21,7195760","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"1:03:21,7196047","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"1:03:21,7196610","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"1:03:21,7196815","child.exe","27892","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:03:21,7197434","child.exe","27892","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"1:03:21,7198037","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:21,7198814","child.exe","27892","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"1:03:21,7199218","child.exe","27892","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:03:21,7201864","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Notifications\41911A28A3BC10B5","BUFFER TOO SMALL","Length: 0"
+"1:03:21,7202017","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Notifications\41911A28A3BC10B5","SUCCESS","Type: REG_BINARY, Length: 72"
+"1:03:21,7204305","child.exe","27892","CreateFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"1:03:21,7206522","child.exe","27892","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ff975e10000, Image Size: 0xcb000"
+"1:03:21,7208015","child.exe","27892","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ff974a10000, Image Size: 0x401000"
+"1:03:21,7216084","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"1:03:21,7216363","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7217280","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Terminal Server","REPARSE","Desired Access: Read"
+"1:03:21,7217500","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Terminal Server","SUCCESS","Desired Access: Read"
+"1:03:21,7217670","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Terminal Server\TSAppCompat","NAME NOT FOUND","Length: 548"
+"1:03:21,7217820","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Terminal Server\TSUserEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:03:21,7218051","child.exe","27892","RegCloseKey","HKLM\System\CurrentControlSet\Control\Terminal Server","SUCCESS",""
+"1:03:21,7219552","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"1:03:21,7219766","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"1:03:21,7220974","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"1:03:21,7221193","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"1:03:21,7221509","child.exe","27892","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"1:03:21,7221697","child.exe","27892","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"1:03:21,7221849","child.exe","27892","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"1:03:21,7222088","child.exe","27892","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"1:03:21,7222395","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"1:03:21,7222603","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"1:03:21,7222744","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:03:21,7223271","child.exe","27892","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"1:03:21,7224403","child.exe","27892","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ff9752c0000, Image Size: 0xa9000"
+"1:03:21,7228529","child.exe","27892","Thread Create","","SUCCESS","Thread ID: 13672"
+"1:03:21,7230863","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"1:03:21,7231161","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"1:03:21,7231358","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060502"
+"1:03:21,7231597","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000605xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"1:03:21,7232202","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"1:03:21,7232410","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"1:03:21,7232891","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelaySleepLoopWindowSize","NAME NOT FOUND","Length: 80"
+"1:03:21,7233375","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelaySpinCountThreshold","NAME NOT FOUND","Length: 80"
+"1:03:21,7233561","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelayBaseYield","NAME NOT FOUND","Length: 80"
+"1:03:21,7233971","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtFactorYield","NAME NOT FOUND","Length: 80"
+"1:03:21,7234729","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\SmtDelayMaxYield","NAME NOT FOUND","Length: 80"
+"1:03:21,7235136","child.exe","27892","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:03:21,7236411","child.exe","27892","QueryNameInformationFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","SUCCESS","Name: \Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe"
+"1:03:21,7237246","child.exe","27892","ReadFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\input.txt","SUCCESS","Offset: 0, Length: 14, Priority: Normal"
+"1:03:21,7243471","child.exe","27892","ReadFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\input.txt","END OF FILE","Offset: 14, Length: 4 096"
+"1:03:21,7244838","child.exe","27892","Thread Exit","","SUCCESS","Thread ID: 19716, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:03:21,7245918","child.exe","27892","Thread Exit","","SUCCESS","Thread ID: 13672, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:03:21,7252443","child.exe","27892","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0000000 seconds, Private Bytes: 569 344, Peak Private Bytes: 573 440, Working Set: 4 485 120, Peak Working Set: 4 489 216"
+"1:03:21,7252889","child.exe","27892","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001","SUCCESS","Desired Access: All Access"
+"1:03:21,7254220","child.exe","27892","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001\\Device\HarddiskVolume3\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\child.exe","NAME NOT FOUND","Length: 40"
+"1:03:21,7254680","child.exe","27892","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001","SUCCESS",""
+"1:03:21,7255273","child.exe","27892","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"1:03:21,7255691","child.exe","27892","CloseFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug","SUCCESS",""
+"1:03:21,7256819","child.exe","27892","CloseFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\input.txt","SUCCESS",""
+"1:03:21,7257731","child.exe","27892","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"1:03:21,7264318","parent.exe","44224","Thread Exit","","SUCCESS","Thread ID: 14700, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:03:21,7265277","parent.exe","44224","Thread Exit","","SUCCESS","Thread ID: 46036, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:03:21,7268462","parent.exe","44224","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0000000 seconds, Private Bytes: 618 496, Peak Private Bytes: 622 592, Working Set: 4 980 736, Peak Working Set: 4 984 832"
+"1:03:21,7268840","parent.exe","44224","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001","SUCCESS","Desired Access: All Access"
+"1:03:21,7269336","parent.exe","44224","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001\\Device\HarddiskVolume3\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug\parent.exe","NAME NOT FOUND","Length: 40"
+"1:03:21,7269775","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-247570962-3794357729-3837585274-1001","SUCCESS",""
+"1:03:21,7270329","parent.exe","44224","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"1:03:21,7270848","parent.exe","44224","CloseFile","C:\Users\Xiaomi Book Pro 2026\CLionProjects\lab_OC_04\cmake-build-debug","SUCCESS",""
+"1:03:21,7271779","parent.exe","44224","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"1:03:21,7272707","parent.exe","44224","RegCloseKey","HKCU\Software\Microsoft\Windows NT\CurrentVersion","SUCCESS",""

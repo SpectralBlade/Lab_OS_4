@@ -1,0 +1,6 @@
+.idea/
+cmake-build-*/
+build/
+~$*.docx
+~WRL*.tmp
+*.tmp
